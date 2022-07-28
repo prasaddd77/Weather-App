@@ -1,5 +1,7 @@
 # Weather App
 
+See the weather in your city and plan your travel accordingly. Shows temperature, weather, humidity and wind speed.
+
 A new Flutter project.
 
 ## Getting Started
